@@ -1,10 +1,3 @@
 # Template Vite Vue
+# Replica Applicazione a scopo didattico "Boolflix"
 
-Template di partenza per progetti Vite Vue
-
-## Installazione
-
-```bash
-  npm install
-  npm run dev
-```
